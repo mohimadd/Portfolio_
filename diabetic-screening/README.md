@@ -6,5 +6,5 @@ Features
 - Diabetic status prediction : Using machine learning to predict diabetic health status
 - User-Friendly : Built with streamlit for easy used
 
-  Machine Learning Model
-  - The model used is Logistic Regression Classifier
+Machine Learning Model
+- The model used is Logistic Regression Classifier
